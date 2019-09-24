@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto5\bin\Debug\punto5.exe.config
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto5\bin\Debug\punto5.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto5\bin\Debug\punto5.pdb
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto5\obj\Debug\punto5.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto5\obj\Debug\punto5.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto5\obj\Debug\punto5.pdb

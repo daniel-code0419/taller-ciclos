@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto9\bin\Debug\punto9.exe.config
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto9\bin\Debug\punto9.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto9\bin\Debug\punto9.pdb
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto9\obj\Debug\punto9.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto9\obj\Debug\punto9.pdb

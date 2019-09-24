@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto15\bin\Debug\punto15.exe.config
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto15\bin\Debug\punto15.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto15\bin\Debug\punto15.pdb
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto15\obj\Debug\punto15.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto15\obj\Debug\punto15.pdb

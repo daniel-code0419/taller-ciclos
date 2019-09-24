@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto6\obj\Debug\punto6.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto6\bin\Debug\punto6.exe.config
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto6\bin\Debug\punto6.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto6\bin\Debug\punto6.pdb
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto6\obj\Debug\punto6.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\taller\punto6\obj\Debug\punto6.pdb
